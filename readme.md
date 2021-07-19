@@ -5,6 +5,7 @@
 
 ### Setup
 - Make sure to update `ServerName` in `vhost.conf`
+- Clone this repository inside your Wordpress project root directory
 - `cd .docker`
 - `docker-compose build`
 - `docker-compose up -d`
